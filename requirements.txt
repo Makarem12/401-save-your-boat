@@ -1,0 +1,25 @@
+Welcome Message and Description:
+
+Upon running the script, the user is greeted with a welcome message and a description of the game's rules and objectives.
+Gameplay:
+
+The game involves guessing a word by selecting letters from the English alphabet.
+The player has a boat with 5 lives. If the boat loses all its lives, it will drown.
+Each time the player makes an incorrect guess, they lose a life.
+When the player makes a correct guess, they are shown the updated word with the guessed letters revealed.
+The game continues until the player guesses the entire word correctly or runs out of lives.
+User Interaction:
+
+The player interacts with the game by entering letters as guesses.
+The player has the option to quit the game at any time by typing 'exit'.
+Feedback:
+
+The game provides feedback to the player after each guess, informing them whether their guess was correct or incorrect and how many lives they have remaining.
+If the player has only one life remaining, a hint is provided to help them guess the word.
+Win/Loss Conditions:
+
+If the player correctly guesses the entire word, they win the game.
+If the player runs out of lives before guessing the entire word, they lose the game.
+Restart Option:
+
+After the game ends (either by winning or losing), the player is prompted whether they want to play again. If they choose to play again, the game restarts.
